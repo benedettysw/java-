@@ -1,0 +1,8 @@
+una estrututa de datos que nos permite almacenar un cojunto de datos 
+de un  mismo tipo el tamaño del arrays se declara en un primer momento y no puede cambiarse ,
+durante la ejecucion del programa 
+
+
+ESTRUTURA
+
+TIPO_DE_DATO [] NOMBDE DEL ARRAY = NEW TIPO_DE_DATO[DIMESION]
